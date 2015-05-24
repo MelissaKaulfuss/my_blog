@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I built a blog!"
+title:  "Building a blog with Jekyll"
 date:   2015-05-20 16:40:37
 categories: development
 ---
