@@ -4,8 +4,9 @@
   {% include head.html %}
 
   <body>
-
-    {% include header.html %}
+    {% if page.id %}
+      {% include header.html %}
+    {% endif %}
 
     <div class="page-content">
       <div class="wrapper">

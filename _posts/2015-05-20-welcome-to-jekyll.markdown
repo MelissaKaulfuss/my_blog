@@ -16,7 +16,6 @@ I decided to deploy to github pages I pushed it and realise my styles were all s
 
 Never forget to run the following commands:
 - git checkout gh-pages
-- git rebase master
 - git push origin gh-pages
 - git checkout master
 
