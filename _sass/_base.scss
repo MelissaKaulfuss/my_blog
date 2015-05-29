@@ -71,6 +71,8 @@ li {
     > ul,
     > ol {
          margin-bottom: 0;
+         list-style-position: inside;
+         padding: 0;
     }
 }
 

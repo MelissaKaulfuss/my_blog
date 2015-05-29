@@ -220,5 +220,9 @@ svg {
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    ul {
+        list-style-position: inside;
+        padding: 0;
+    }
     }
 }
