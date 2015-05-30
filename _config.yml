@@ -2,7 +2,7 @@
 title: The long road to internet
 email: melissacor3lfuss@gmail.com
 description: My journey from n00b to not n00b
-baseurl: "/my_blog" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://melissakaulfuss.github.io/my_blog" # the base hostname & protocol for your site
 twitter_username: MelissaKaulfuss
 github_username:  MelissaKaulfuss
