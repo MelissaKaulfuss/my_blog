@@ -112,6 +112,8 @@
 }
 
 .index-heading {
+    border-top: 5px solid $pink-color;
+    padding-top: $spacing-unit 0;
     margin-left: 0;
     margin-top: 20px;
     p {
