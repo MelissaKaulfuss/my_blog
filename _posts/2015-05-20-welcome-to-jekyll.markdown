@@ -2,7 +2,7 @@
 layout: post
 title:  "Building a blog with Jekyll"
 date:   2015-05-20 16:40:37
-categories: development
+<!-- categories: development -->
 ---
 For ever I've been thinking, I need to write a blog. Honestly, I think that if I can learn to talk about what I'm learning then it will help cement things in my mind a little better.
 
