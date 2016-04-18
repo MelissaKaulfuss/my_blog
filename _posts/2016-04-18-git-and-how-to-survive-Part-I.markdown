@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "how to git and survive – part I"
-date:   2016-04-18 22:54:00
+date:   2016-04-18
 ---
 On Friday afternoon I embarked on my new profile site. A project I've really taken to. It's been great exploring CSS and using Flexbox, Media queries and having fun with layout and typography.
 
@@ -23,10 +23,3 @@ To restore and include the most recent stash into your project tree run `git sta
 To include one of the older stashes, simply specify which one like this `it stash apply stash@{2}`
 
 You can read all about stashing on the <a href="https://git-scm.com/book/no-nb/v1/Git-Tools-Stashing">Git site </a>.
-
-
-
-
-
-
-
