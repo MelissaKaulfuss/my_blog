@@ -1,9 +1,7 @@
-2016–04-19
-
 ---
 layout: post
-title:  "The peaks and troughs of the learning journey"
-date:   2015-05-20
+title: "The peaks and troughs of the learning journey"
+date: 2015-05-20
 <!-- categories: development -->
 ---
 
