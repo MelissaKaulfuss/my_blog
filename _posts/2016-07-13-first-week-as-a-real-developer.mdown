@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I'm a developer! How does that feel?"
-date:   2016-07-13 21:47:37
+date:   2016-07-13
 <!-- categories: development -->
 ---
 So it’s day 5 of my “paid” career as a developer.
