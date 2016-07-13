@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "I'm a developer! How does that feel?"
+date:   2016-07-13 21:47:37
+<!-- categories: development -->
+---
+So it’s day 5 of my “paid” career as a developer.
+
+Here are some reflections for those that are curious about what it’s been like.
+
+Firstly, day 1–4 were a blur. Everything was new, syntax aside, there were so many moving parts to start to piece together – not just the applications and infrastructure, all the HR systems, wikis, teams, acronyms. I’m not there yet, but I’m getting there.
+
+But onto what it’s like working in a team to get shit done. My colleagues are all amazing. They’re so patient as they explain simple shell commands, and watch me struggle to type with an audience, my use of keyboard shortcuts is abysmal but they smile despite their pain. Truth be told, day 5 has been amazing –– when you start to make sense of a few small things and start to feel productive (no matter how small the tasks) it’s a wonderful thing.
+
+Over the last two days:
+
+* I’ve ssh-d (and then sftp-d)into a production server using a gem called awsm
+* I’ve run some rake tasks and learnt that load can kill production
+* I’ve turned of our deploys to production in Buildkite whilst generating 2.5 million unique voucher codes on a Resque server
+* Had an intro to our AWS environment and;
+– elastic load balancing, autoscaling, unicorns, elasticache and redis
+– what nginx does (not sure I fully get it)
+* Learnt a bunch of `shell`
+* and mostly, had a load of fun.
+
+I feel like the luckiest person alive at the moment. I get paid to make computers do things and have the help and support of a great bunch of people. My greatest fear was that I wasn’t smart enough for this job but after just 5 days and knowing very little, I feel like I’ve learnt stuff (slowly). I think I’ll be okay, I’m pretty sure I got this ;)
