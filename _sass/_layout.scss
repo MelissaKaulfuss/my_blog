@@ -156,7 +156,7 @@ svg {
 
     > ul {
     list-style-position: inside;
-    padding: 0;
+    padding: 10px;
     }
 }
 
@@ -230,6 +230,12 @@ svg {
     ul {
         list-style-position: inside;
         padding: 0;
+    }
+
+    li {
+        list-style-position: inside;
+        list-style-type: circle;
+        padding: 10px;
     }
     }
 }

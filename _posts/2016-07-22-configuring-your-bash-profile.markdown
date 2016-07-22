@@ -5,10 +5,6 @@ date:   2016-07-22
 <!-- categories: development -->
 ---
 
-
-# Configuring your bash profile for some sort of productivity :)
-
-
 ## So what’s Bash?
 
 Bash is a Unix shell and command language that was first released in 1989. It’s the default shell on OS X so I guess that’s why I use it  – you’ll use it to run scripts that deploy your code, with git, and to navigate your file system etc.
@@ -32,11 +28,19 @@ For example: `alias gs=‘git status’`
 When you run gs in the terminal after you’ve saved this to your bash profile, it will be interpreted as the git status command. I’ve uploaded my bash profile config to github so that I can simply clone that file whenever I need to set it up on my machine again. 
 
 Let’s set up git, commit that file and push it up to github:
-+ `git init`
-+  `git status`
-+  Find the file you need to stage ie. .bash_profile and stage it `git add .bash_profile`
+
+* Run `git init` to initialise your empty repository
+
++  Run `git status` to check your unstaged files
+
+-  Find the file you need to stage ie. .bash_profile and stage it `git add .bash_profile`
+
 +  Commit your file `git commit -m “First commit”`
-+  Set the origin upstream for where you want to push that file `git remote add origin https://github.com/MelissaKaulfuss/.bash_profile.git`
+
++  Set the origin:
+
+ `git remote add origin https://github.com/MelissaKaulfuss/.bash_profile.git`
+
 +  Now commit it `git push origin master`
 
 Now when you restart your terminal you’ll now be able to run heavily used commands with fewer keystrokes –– FTW!

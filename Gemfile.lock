@@ -124,7 +124,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 86)
   json
-  kramdown
 
 BUNDLED WITH
    1.12.5
