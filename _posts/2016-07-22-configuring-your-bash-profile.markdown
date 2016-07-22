@@ -9,7 +9,7 @@ date:   2016-07-22
 
 Bash is a Unix shell and command language that was first released in 1989. It’s the default shell on OS X so I guess that’s why I use it  – you’ll use it to run scripts that deploy your code, with git, and to navigate your file system etc.
 
-Over time you’ll get frustrated with the long form of commands that you’re using all the time, so it’s a great idea to add some aliases to a dotfile (what is a DF?) called .bash_profile. So let’s do that.
+Over time you’ll get frustrated with the long form of commands that you’re using all the time, so it’s a great idea to add some aliases to a dotfile called .bash_profile. So let’s do that.
 
 ## Setting up your own Bash Profile
 
