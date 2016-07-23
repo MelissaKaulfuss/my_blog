@@ -53,7 +53,8 @@
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right
+        text-align: right;
+    }
 
         /*.menu-icon {
             display: block;
@@ -62,7 +63,7 @@
             height: 26px;
             line-height: 0;
             padding-top: 10px;
-            text-align: center;*/
+            text-align: center;
 
             > svg {
                 width: 18px;
@@ -93,10 +94,9 @@
             padding: 5px 10px;
         }
     }
-/*} Relates to menu-icon which is commented out ^
+/*} Relates to menu-icon which is commented out ^ */
 
-/**
- * Site footer
+ /* Site footer
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
@@ -238,4 +238,4 @@ svg {
         padding: 10px;
     }
     }
-}
+}}
