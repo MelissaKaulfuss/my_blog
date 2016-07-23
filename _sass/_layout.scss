@@ -53,16 +53,16 @@
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right;
+        text-align: right
 
-        .menu-icon {
+        /*.menu-icon {
             display: block;
             float: right;
             width: 36px;
             height: 26px;
             line-height: 0;
             padding-top: 10px;
-            text-align: center;
+            text-align: center;*/
 
             > svg {
                 width: 18px;
@@ -93,7 +93,7 @@
             padding: 5px 10px;
         }
     }
-}
+/*} Relates to menu-icon which is commented out ^
 
 /**
  * Site footer
